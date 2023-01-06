@@ -13,4 +13,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\TFMS.Data\TFMS.Data.csproj" />
+  </ItemGroup>
+
 </Project>
